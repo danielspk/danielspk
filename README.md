@@ -31,7 +31,7 @@ func main() {
 		Frameworks:   []string{"Symfony", "React", "Fiber"},
 		Interests:    []string{"Clean Architecture", "Domain Driven Design", "Microservices", "RESTful", "gRPC", "CQRS"},
 		Hobbies:      []string{"Fishing", "Welding", "Kayaking", "Trekking", "Beer"},
-		Contacts:     []string{"daniel.spiridione@gmail.com", "http://daniel-spiridione.com.ar", "https://github.com/danielspk"},
+		Contacts:     []string{"daniel.spiridione@gmail.com", "https://ar.linkedin.com/in/daniel-mart%C3%ADn-spiridione-46695528", "https://github.com/danielspk"},
 	}
 
 	fmt.Printf("😃 Hello, my name is `%s %s`\n", me.Name, me.Surname)
